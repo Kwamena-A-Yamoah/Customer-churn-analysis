@@ -8,3 +8,6 @@ scikit-learn
 imblearn
 statsmodels
 openpyxl
+xgboost
+catboost
+lightgbm
